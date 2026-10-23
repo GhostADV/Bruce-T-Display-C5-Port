@@ -5,7 +5,7 @@ Unofficial bruce firmware for T-Display-C5
 
 ## Supported devices
 
-- **LILYGO T-Display C5** — [BETA
+- **LILYGO T-Display C5** — [BETA]
 
 
 ## Installation
